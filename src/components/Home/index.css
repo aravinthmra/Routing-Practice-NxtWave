@@ -1,0 +1,10 @@
+.image-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.main-image1 {
+  height: 150px;
+  margin: 40px 0;
+}
